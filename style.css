@@ -13,7 +13,7 @@ html, body, figure, img, div, section, article, input, button, textarea,p, h1,h2
 .container{
     max-width: 1200px;
     width: 100%;
-    margin: 0 auto; Centralizando o conteúdo
+    margin: 0 auto; /*Centralizando o conteúdo*/
     
   }
 
